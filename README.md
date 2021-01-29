@@ -1,4 +1,4 @@
-# calculate
+# calculate java Swing 桌面项目
 
 作者：段浩浩
 
